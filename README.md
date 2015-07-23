@@ -1,4 +1,4 @@
-# ACF Field Type Template
+# ACF RGBA Color Picker
 
 Welcome to the Advanced Custom Fields field type template repository.
 Here you will find a starter-kit for creating a new ACF field type. This start-kit will work as a normal WP plugin.

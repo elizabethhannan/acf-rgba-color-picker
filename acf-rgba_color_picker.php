@@ -38,6 +38,7 @@ add_action('acf/include_field_types', 'include_field_types_rgba_color_picker');
 function register_fields_rgba_color_picker() {
 	
 	include_once('acf-rgba_color_picker-v4.php');
+	add_action('acf/input/admin_enqueue_scripts', 'input_admin_enqueue_scripts');
 	
 }
 
